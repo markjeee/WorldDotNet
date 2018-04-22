@@ -4,9 +4,9 @@ namespace Gemfury.WorldDotNet
 {
     public class Hello
     {
-        public void SayHello()
+        public string SayHello()
         {
-            Console.WriteLine("Hello World");
+            return "Hello World";
         }
     }
 }

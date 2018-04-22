@@ -14,4 +14,7 @@ Global
 		{559DA043-98A3-4F5D-A5F6-00DF84487F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{559DA043-98A3-4F5D-A5F6-00DF84487F4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		version = 0.2
+	EndGlobalSection
 EndGlobal

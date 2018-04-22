@@ -3,10 +3,11 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackOnBuild>true</PackOnBuild>
-    <PackageVersion>0.1.0</PackageVersion>
+    <PackageVersion>0.2.0</PackageVersion>
     <Authors>Gemfury</Authors>
     <Description>Hello World Demo of a NuGet package.</Description>
     <PackageId>Gemfury.WorldDotNet</PackageId>
+    <ReleaseVersion>0.2</ReleaseVersion>
   </PropertyGroup>
 
   <ItemGroup>
